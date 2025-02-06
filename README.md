@@ -37,6 +37,4 @@ cd tea-disease-classification
 cd tea-disease-classification/streamlit
 streamlit run main.py
 ```
-Visit http://localhost:8501 in your browser.
-
 Visit `http://localhost:8501` in your browser.

@@ -1,6 +1,6 @@
 # Tea Leaf Disease Classifier
 
-A machine learning web application that classifies diseases in tea leaf images
+A machine learning web application that classifies diseases in tea leaf images. **Currently NOT working, temporarily stopped AWS ECS service due to billing.**
 
 ## Demo
 
